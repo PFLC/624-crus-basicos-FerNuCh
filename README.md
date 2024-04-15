@@ -65,3 +65,15 @@ Esta aplicación es una demostración básica y no implementa medidas avanzadas 
 
 Siéntete libre de contribuir a este proyecto o sugerir mejoras. Para cualquier consulta o problema, por favor abre un issue en este repositorio.
 
+## Ejemplos de CRUD
+
+Los formularios pueden ser de 4 tipos distintos, variando cada uno en funcionalidad y objetivo de los mismos.
+
+El de creacion, por ejemplo, sirve para crear un registro nuevo en la base de datos. Un uso de este seria el formulario de resgistro a paginas como Facebook.
+![image](https://github.com/PFLC/624-crus-basicos-FerNuCh/assets/113657453/b359f3c2-4da8-4be6-98d6-96b1b0a51302)
+El formulario de lectura es un poco mas complicado de explicar pues no es un formulario como tal si no mas una consulta que hacemos de otro registro existente, como la barra de busqueda de perfiles en alguna red social.
+![twitter-1](https://github.com/PFLC/624-crus-basicos-FerNuCh/assets/113657453/0fe6b432-fc60-4c57-8e50-72e6b8612e05)
+El formulario de actualizacion o Update es el que veriamos al querer cambiar nuestro nombre de usuario en una plataforma digital, como en Twitter/X que te pide ciertos datos al querer cambiar de nombre de usuario, Nombre de cuenta o contraseña
+![CAMBIAR-CONTRASENA-TWITTER-1024x567](https://github.com/PFLC/624-crus-basicos-FerNuCh/assets/113657453/24fe3764-e3e2-409b-b52b-c828e3edbb84)
+Y por ultimo el de eliminacion, que realmente se puede ver usualmente como un boton sencillo que al presionarlo te preguntara si estas seguro de eliminar tu cuenta, aun que en algunos casos se puede ver otro formulario que te pregunta las razones de esta eliminacion.
+![450_1000](https://github.com/PFLC/624-crus-basicos-FerNuCh/assets/113657453/4dd130b1-5080-4629-9798-208741be074e)
